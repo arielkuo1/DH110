@@ -20,9 +20,9 @@ blah blah
 
 **Heuristic Evaluation** 
 
-|Heuristic      |Evaluation     |Recommendation | Severity Rating| 
+| Heuristic      | Evaluation     | Recommendation | Severity Rating | 
 | ------------- | ------------- | ----- | 
-|Visibility of system status| 1| 1 |  1| 
+| Visibility of system status | 1 | 1 | 1| 
 
 
 
