@@ -22,7 +22,7 @@ blah blah
 
 |Heuristic      |Evaluation     |Recommendation | Severity Rating|
 | ------------- | ------------- | ----- |
-|Visibility of system status| |  |  |
+|Visibility of system status| 1| 1 |  1|
 |Match between system and the real world|      | | |
 |User control and freedom|  |  | |
 |Consistency and standards|  |  | |
