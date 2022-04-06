@@ -23,11 +23,11 @@ For a middle-aged man, learning music theory online can be a daunting task with 
 
 **Nielsen Norman Group Severity Ratings**  
 
-**0** = Not a usability problem
-**1** = Only a cosmetic problem
-**2** = Minor usability problem given low priority
-**3** = Major usability problem given high priority
-**4** = Must be fixed before product release
+**0** = Not a usability problem 
+**1** = Only a cosmetic problem 
+**2** = Minor usability problem given low priority 
+**3** = Major usability problem given high priority 
+**4** = Must be fixed before product release 
 
 ### Option 1: musictheory.net
 
