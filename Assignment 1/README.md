@@ -23,7 +23,21 @@ blah blah
 | Heuristic      | Evaluation     | Recommendation | Severity Rating | 
 | ------------- | ------------- | ----- | 
 | Visibility of system status | 1 | 1 | 1| 
+|Match between system and the real world|      | | |
+|User control and freedom|  |  | |
+|Consistency and standards|  |  | |
+|Error prevention|  |  | |
+|Recognition rather than recall|  |  | |
+|Flexibility and efficiency of use|  |  | |
+|Aesthetic and minimalist design|  |  | |
+|Help users recognize, diagnose and recover from errors|  |  | |
+|Help and documentation|  |  | |
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
