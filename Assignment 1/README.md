@@ -13,6 +13,8 @@ URL: https://www.musictheory.net/
 **About the Website**  
 blah blah 
 
+![homepage](musictheory-screenshot.png) 
+
 
 
 
