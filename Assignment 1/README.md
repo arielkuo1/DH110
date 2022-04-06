@@ -21,7 +21,7 @@ blah blah
 **Heuristic Evaluation** 
 
 | Heuristic      | Evaluation     | Recommendation | Severity Rating | 
-| ------------- | ------------- | ----- | 
+| ------------- | ------------- | ----- | ------- |
 | Visibility of system status | 1 | 1 | 1| 
 |Match between system and the real world|      | | |
 |User control and freedom|  |  | |
@@ -33,7 +33,7 @@ blah blah
 |Help users recognize, diagnose and recover from errors|  |  | |
 |Help and documentation|  |  | |
 
-| Heuristic        | Evaluation           | Recommendation  |
+| Heuristic        | Evaluation           | Recommendation  | Severity Rating | 
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
