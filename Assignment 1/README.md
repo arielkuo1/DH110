@@ -6,6 +6,29 @@ DH 110: User Experience and Design
 **About the Project**  
 For a middle-aged man, learning music theory online can be a daunting task with the overflow of information available. There are numerous options for learning, and it may be difficult to find one source that can fit the needs of the student. In this assignment, I will evaluate two different options for online music theory learning using Nielsen and Molich's 10 user interface design heuristics. 
 
+### Heuristics and Severity Ratings 
+
+**Nielsen and Molich's 10 user interface design heuristics** 
+
+1. **Visibility of system status** - The interface should indicate to the user the current system status.
+2. **Match between system and the real world** - Information and terminology on the interface should match how they are experienced in the real world.
+3. **User control and freedom** - Users should be able to move back and forth within an interface.
+4. **Consistency and standards** - Features and terminology should be kept consistent throughout the interface when referencing a certain task or topic.
+5. **Error prevention** - The interface should be designed to minimize possible user errors.
+6. **Recognition rather than recall** - The user should understand what is happening on the interface without drawing on previous knowledge.
+7. **Flexibility and efficiency of use** - The user should be able to navigate the website efficiently with minimal steps.
+8. **Aesthetic and minimalist design** -  The interface should not include unneccessary or distracting content that would clutter the space.
+9. **Help users recognize, diagnose and recover from errors** - Include error prevention and error messages that can guide the user to fix the problem.
+10. **Help and documentation** - The user should be able to seek help within the website.
+
+**Nielsen Norman Group Severity Ratings**  
+
+**0** = Not a usability problem
+**1** = Only a cosmetic problem
+**2** = Minor usability problem given low priority
+**3** = Major usability problem given high priority
+**4** = Must be fixed before product release
+
 ### Option 1: musictheory.net
 
 URL: https://www.musictheory.net/ 
