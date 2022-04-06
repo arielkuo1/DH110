@@ -1,4 +1,4 @@
 # Learning Music the Easy Way
-Ariel Kuo.  
+Ariel Kuo  
 DH 110
 
