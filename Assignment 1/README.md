@@ -4,19 +4,19 @@
 DH 110: User Experience and Design 
 
 **About the Project**  
-blah blah
+For a middle-aged man, learning music theory online can be a daunting task with the overflow of information available. There are numerous options for learning, and it may be difficult to find one source that can fit the needs of the student. In this assignment, I will evaluate two different options for online music theory learning using Nielsen and Molich's 10 user interface design heuristics. 
 
-### Competitor 1: musictheory.net
+### Option 1: musictheory.net
 
 URL: https://www.musictheory.net/ 
 
 **About the Website**  
-blah blah 
+The website musictheory.net is an online tool for learning music theory. The website includes free learning features like Lessons, Exercises, and Tools, as well as paid premium apps called Theory Lessons and Tenuto. 
 
 ![homepage](musictheory-screenshot.png) 
 
 **Overall Evaluation** 
-blah blah 
+For a middle-aged man, this website is a pretty good starting point for learning music theory. The interface is kept very simple and is relatively easy to use. There is a lot of content and useful information on the website, and little unneccessary information shown. Overall, the website is sufficient but could use many improvements in the interface to create a better learrning experience for the user.
 
 **Heuristic Evaluation** 
 
