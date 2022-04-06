@@ -22,7 +22,7 @@ blah blah
 
 | Heuristic      | Evaluation     | Recommendation | Severity Rating | 
 | ------------- | ------------- | ----- | ------- |
-| Visibility of system status | 1 | 1 | 1| 
+| Visibility of system status |**Good:** The title of the page is underlined when the user is on that page  | N/A: The website exhibits clear visibility of the system status.  | N/A | 
 |Match between system and the real world|      | | |
 |User control and freedom|  |  | |
 |Consistency and standards|  |  | |
@@ -33,11 +33,6 @@ blah blah
 |Help users recognize, diagnose and recover from errors|  |  | |
 |Help and documentation|  |  | |
 
-| Heuristic        | Evaluation           | Recommendation  | Severity Rating | 
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 
