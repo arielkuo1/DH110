@@ -1,3 +1,4 @@
-# DH110
+# DH110 - Spring 2022
 
-## Hi
+## Ariel Kuo
+### User Experience and Design Project
