@@ -20,10 +20,21 @@ blah blah
 
 **Heuristic Evaluation** 
 
-|Heuristic      |Evaluation     | Severity Rating|
+|Heuristic      |Evaluation     |Recommendation | Severity Rating|
 | ------------- | ------------- | ----- |
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|Visibility of system status| |  |  |
+|Match between system and the real world|      | | |
+|User control and freedom|  |  | |
+|Consistency and standards|  |  | |
+|Error prevention|  |  | |
+|Recognition rather than recall|  |  | |
+|Flexibility and efficiency of use|  |  | |
+|Aesthetic and minimalist design|  |  | |
+|Help users recognize, diagnose and recover from errors|  |  | |
+|Help and documentation|  |  | |
 
 
+
+**Credits** 
+https://www.interaction-design.org/literature/article/heuristic-evaluation-how-to-conduct-a-heuristic-evaluation 
+https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/ 
