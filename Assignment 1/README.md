@@ -40,7 +40,7 @@ URL: https://www.lightnote.co/
 **About the Website**  
 The website lightnote.co is a basic interactive website for learning music theory. The website features a free complete lesson on basic music theory, as well as an option for a paid "Lightnote Premium" music theory course.
 
-
+![homepage](lightnote-screenshot.png) 
 
 **Heuristic Evaluation** 
 
