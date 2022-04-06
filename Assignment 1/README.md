@@ -20,10 +20,18 @@ blah blah
 
 **Heuristic Evaluation** 
 
-|Heuristic      |Evaluation     |Recommendation | Severity Rating|
-| ------------- | ------------- | ----- |
-|Visibility of system status| 1| 1 |  1|
-
+|Heuristic      |Evaluation     |Recommendation | Severity Rating| 
+| ------------- | ------------- | ----- | 
+|Visibility of system status| 1| 1 |  1| 
+|Match between system and the real world|      | | |
+|User control and freedom|  |  | |
+|Consistency and standards|  |  | |
+|Error prevention|  |  | |
+|Recognition rather than recall|  |  | |
+|Flexibility and efficiency of use|  |  | |
+|Aesthetic and minimalist design|  |  | |
+|Help users recognize, diagnose and recover from errors|  |  | |
+|Help and documentation|  |  | |
 
 
 
