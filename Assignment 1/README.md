@@ -22,8 +22,8 @@ blah blah
 
 | Heuristic      | Evaluation     | Recommendation | Severity Rating | 
 | ------------- | ------------- | ----- | ------- |
-| Visibility of system status |**Good:** The title of the page is underlined when the user is on that page  | N/A: The website exhibits clear visibility of the system status.  | N/A | 
-|Match between system and the real world|      | | |
+| Visibility of system status |**Good:** The title of the page is underlined when the user is on that page **Bad:** | N/A: The website exhibits clear visibility of the system status.  | N/A | 
+|Match between system and the real world|   **Good:** The page titles are user-familiar words like "Lessons," "Tools," and "Products." **Bad:** Although the page labels are clear, there is no description stating the purpose of these pages.   | Provide a description at the top of each page describing the purpose. For example, "Use our Exercises to practice your music theory knowledge." | 2 |
 |User control and freedom|  |  | |
 |Consistency and standards|  |  | |
 |Error prevention|  |  | |
