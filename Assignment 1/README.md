@@ -15,6 +15,15 @@ blah blah
 
 ![homepage](musictheory-screenshot.png) 
 
+**Overall Evaluation** 
+blah blah 
 
+**Heuristic Evaluation** 
+
+|Heuristic      |Evaluation     | Severity Rating|
+| ------------- | ------------- | ----- |
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
