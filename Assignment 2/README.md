@@ -44,5 +44,13 @@ The test was designed to collect data on the ease of use of the website, as well
 
 ## Test Materials
 
+# Survey Link
+
+Access the usability materials [here](https://forms.gle/cypJUic8qUDrWvWN6)
+
+# UT Recording 
+
+Access the pilot test video [here](https://drive.google.com/file/d/1Fj2Z9-gyI5KavfNQ3qtX8UXnZ99FEfFn/view?usp=sharing)
+
 
 
