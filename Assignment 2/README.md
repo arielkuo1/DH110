@@ -8,7 +8,7 @@ A usability test (UT) is intended to determine the extent an interface facilitat
 
 Usability tests are a part of the process of improving the user's experience of a product. For musictheory.net, I found through heuristic evaluation that there are a few potential usability problems regarding user control, consistency, and help and documentation. The purpose of this usability test is to research how users may solve or face these problems with the interface, which would inform decisions to improve the website.
 
-**About the test
+**About the test**
 
 The UT takes place in a portable minimalistic lab setting, with one laptop and a camera and microphone. This was a pilot test, with the purpose of testing out the equipment, setting, and materials for UTs. The participant sat in the same room as the instructor and had control over the computer when exploring musictheory.net. 
 
@@ -44,13 +44,16 @@ The test was designed to collect data on the ease of use of the website, as well
 
 ## Test Materials
 
-**Survey Link
+**Survey Link**
 
 Access the usability materials [here](https://forms.gle/cypJUic8qUDrWvWN6)
 
-**UT Recording 
+**UT Recording**
 
 Access the pilot test video [here](https://drive.google.com/file/d/1Fj2Z9-gyI5KavfNQ3qtX8UXnZ99FEfFn/view?usp=sharing)
 
+## Reflection
+
+By conducting this UT pilot, I was able to rehearse my script and procedures for testing. The logistics of the test went well, but could be improved by making small changes. For example, sitting next to the participant may influence their behavior in some way, with the added pressure of someone watching their screen actively. In the future I may come up with a different setup, such as sitting across from the participant or having them join a Zoom call and sharing their own screen for recording. I also was surprised to learn that the participant's responses did not match my personal opinions of the website, and the participant did not have as hard of a time with the tasks as I had anticipated. This could be because the participant was not in the target audience and was the only sample, and conducting more UTs on the target audience would help create accurate data for improving the website.
 
 
