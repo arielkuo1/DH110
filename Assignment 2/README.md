@@ -16,8 +16,8 @@ After informed consent was given, the participant answered background questions 
 
 After the tasks were completed, the participant answered the Post-test questions, which were about how easy a task was, how long it took to perform, and how likely the user would be to perform it. Then, the user was asked to report how much they agree or disagree with the following statements:
 
-I think that I would like to use this website frequently 
-I found the website unnecessarily complex 
+I think that I would like to use this website frequently  
+I found the website unnecessarily complex  
 I thought the website was easy to use 
 I think that I would need the support of a technical person to be able to use this website 
 I found the various functions in this website were well integrated 
