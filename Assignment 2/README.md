@@ -18,35 +18,35 @@ After the tasks were completed, the participant answered the Post-test questions
 
 I think that I would like to use this website frequently  
 I found the website unnecessarily complex  
-I thought the website was easy to use 
-I think that I would need the support of a technical person to be able to use this website 
-I found the various functions in this website were well integrated 
-I thought there was too much inconsistency in this website 
-I would imagine that most people would learn to use this website very quickly 
-I found the website very cumbersome to use 
-I felt very confident using the website 
-I needed to learn a lot of things before I could get going with this website 
+I thought the website was easy to use  
+I think that I would need the support of a technical person to be able to use this website  
+I found the various functions in this website were well integrated  
+I thought there was too much inconsistency in this website  
+I would imagine that most people would learn to use this website very quickly  
+I found the website very cumbersome to use  
+I felt very confident using the website  
+I needed to learn a lot of things before I could get going with this website  
 
 Finally, the user filled out a product satisfaction card, choosing five words that matched their reactions to the website from the following list taken from NNGroup's adjectives:
 
-Boring
-Busy
-Calm
-Cheap
-Creative
-Cutting-edge
-Exciting
-Expensive
-Familiar
-Fresh
-Impressive
-Innovative
-Inspiring
-Intimidating
-Old
-Professional
-Trustworthy
-Unprofessional
+Boring 
+Busy 
+Calm 
+Cheap 
+Creative 
+Cutting-edge 
+Exciting 
+Expensive 
+Familiar 
+Fresh 
+Impressive 
+Innovative 
+Inspiring 
+Intimidating 
+Old 
+Professional 
+Trustworthy 
+Unprofessional 
 
 The UT ended with demographic questions to avoid their influence on the participant's behavior during the test. These asked about age, gender, ethnicity, and primary language. 
 
