@@ -29,18 +29,18 @@ I needed to learn a lot of things before I could get going with this website
 
 Finally, the user filled out a product satisfaction card, choosing five words that matched their reactions to the website from the following list taken from NNGroup's adjectives:
 
-Boring 
-Busy 
-Calm 
-Cheap 
-Creative 
-Cutting-edge 
-Exciting 
+Exciting Boring  
 Expensive 
 Familiar 
 Fresh 
 Impressive 
 Innovative 
+Busy  
+Calm  
+Cheap  
+Creative  
+Cutting-edge  
+
 Inspiring 
 Intimidating 
 Old 
