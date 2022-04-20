@@ -19,7 +19,7 @@ Access the contextual inquiry script [here](https://docs.google.com/document/d/1
 
 **Contextual Inquiry Recording**
 
-Access the recording of the interview [here]
+Access the recording of the interview [here](https://drive.google.com/file/d/1FO7pVTcsB56_b3XEMZaUiRjjE3kno04y/view?usp=sharing)
 
 **User reference material**
 
