@@ -15,20 +15,33 @@ In this contextual inquiry, I employed participatory observation research to lea
 
 **Research guide**
 
-Access the contextual inquiry script here[https://docs.google.com/document/d/1fXQ-hS-eBNqvDiQucDvsQNWK-KOSbn-kGTr4__-DjZY/edit?usp=sharing]
+Access the contextual inquiry script [here](https://docs.google.com/document/d/1fXQ-hS-eBNqvDiQucDvsQNWK-KOSbn-kGTr4__-DjZY/edit?usp=sharing)
+
+**Contextual Inquiry Recording**
+
+Access the recording of the interview [here]
+
+**User reference material**
+
+The participant referenced a [youtube video](https://www.youtube.com/watch?v=_eKTOMhpy2w) and a [website](https://guitarnutrition.com/blog/how-to-learn-music-theory-10-times-faster#:~:text=In%20order%20to%20develop%20fluency,interval%20from%20any%20root%20note)
+
+**Research notes**
+
+Access the interview responses [here](https://docs.google.com/document/d/1TxCUE49ZrmD2Of3ZIp8m4POe-Z1j_R2Icq75ZRJTarc/edit?usp=sharing)
+
+**Reflection**
+
+In this field study, I learned a lot about the target audience and conducting research. 
+
+The most prominent findings about the target audience of this research were:
+
+1. Visual aid is essential to learn music theory
+2. Users would willingly use online learning sources on their own
+3. Users prefer methods that are simple, easy to use, interactive, and don't take up a lot of time
+
+I also learned that every user's needs and experiences may be very different. This participant had previous experience learning music theory, and those methods differed from what they would use if learning currently. I learned that to properly observe the user, I needed to adapt the prompts and questions I provided them to fit their background. For example, I asked questions about what they did in the past and also what they would do now to learn more about music theory. I also needed to sometimes give further explanation to help guide the participant and sharing information. Overall, the CI was successful in teaching me about my target audience and about conducting research. 
 
 
-Step05: Conduct the research
-Contact, schedule, and visit the place
-Meet/Observe people/person, follow the interview guide you prepared
-Collect/Record the data, make a notes
 
-Step06: Organize/Documentation
-In github (sub)repository of this assignment, create one document (either README.md or .html)
-Describe your research goal and requirement/constraints + target user (step1+2)
-Describe your research methods and plan (step3)
-Provide a link to your interview/observation guide (step4) 
-Digitize your notes (scan/photo) and upload your data to github
-Provide a link to your representative data file(s) (step5)
-Provide a link to the transcript of your interview (or meaningful dialogues/ talk-alouds during observation) 
-Write a reflection
+
+
