@@ -25,6 +25,9 @@ Access the recording of the interview [here](https://drive.google.com/file/d/1FO
 
 The participant referenced a [youtube video](https://www.youtube.com/watch?v=_eKTOMhpy2w) and a [website](https://guitarnutrition.com/blog/how-to-learn-music-theory-10-times-faster#:~:text=In%20order%20to%20develop%20fluency,interval%20from%20any%20root%20note)
 
+![homepage](youtube-screenshot.png) 
+![homepage](website-screenshot.png) 
+
 **Research notes**
 
 Access the interview responses [here](https://docs.google.com/document/d/1TxCUE49ZrmD2Of3ZIp8m4POe-Z1j_R2Icq75ZRJTarc/edit?usp=sharing)
