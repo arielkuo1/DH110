@@ -52,4 +52,4 @@ From the homepage of musictheory.net, Robert clicks on the "Exercises" tab. This
 
 ### Journey Map
 
-![homepage](journey-robert.png)
+![homepage](jrobert.png)
