@@ -8,4 +8,4 @@ Creating a product requires a deep understanding of the target audience. In orde
 
 ### Persona 1: Will Stevenson - church choir attendee
 
-![homepage](youtube-screenshot.png) 
+![homepage](will.png) 
