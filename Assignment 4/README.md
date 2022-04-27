@@ -10,14 +10,14 @@ Creating a product requires a deep understanding of the target audience. In orde
 
 ![homepage](will.png) 
 
-**Empathy Map**
+### Empathy Map
 
 ![homepage](empathy-will.png)
 
-**Feature 1: Music theory lessons with progress visualizations**
+### Feature 1: Music theory lessons with progress visualizations
 
 blah blah
 
-**Journey Map**
+### Journey Map
 
 ![homepage](journey-will.png)
