@@ -18,7 +18,9 @@ Creating a product requires a deep understanding of the target audience. In orde
 
 ### Feature 1: Music theory lessons with progress visualizations
 
-blah blah
+**Why would Will use the feature?**
+
+**How does Will experience the feature?**
 
 
 ### Journey Map
