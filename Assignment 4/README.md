@@ -32,12 +32,12 @@ From the homepage of musictheory.net, Will finds the "Lessons" tab and clicks on
 
 ### Persona 2: Robert Miller - past piano player
 
-![homepage](robert.png) 
+![homepage](rob.png) 
 
 
 ### Empathy Map
 
-![homepage](empathy-robert.png)
+![homepage](erobert.png)
 
 
 ### Feature 2: Music theory exercises with game mode
