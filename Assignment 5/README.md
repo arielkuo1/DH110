@@ -24,11 +24,11 @@ The pink pathways indicate additional functions that can be completed during the
 
 **Task 1: Complete the first lesson on musictheory.net**
 
-![homepage](wireflow-1.png)
+![homepage](wireflow-1.jpg)
 
 **Task 2: Complete the first exercise on musictheory.net using Game Mode**
 
-![homepage](wireflow-2.png)
+![homepage](wireflow-2.jpg)
 
 ### Testing the Prototype
 
@@ -36,11 +36,11 @@ A test subject was asked to complete the two tasks and draw their pathways on th
 
 **Task 1: Complete the first lesson on musictheory.net**
 
-![homepage](test-1.png)
+![homepage](test-1.jpg)
 
 **Task 2: Complete the first exercise on musictheory.net using Game Mode**
 
-![homepage](test-2.png)
+![homepage](test-2.jpg)
 
 
 ### Reflection
