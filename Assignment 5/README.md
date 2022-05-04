@@ -28,7 +28,7 @@ The pink pathways indicate additional functions that can be completed during the
 
 **Task 2: Complete the first exercise on musictheory.net using Game Mode**
 
-![homepage]()
+![homepage](wireflow2.jpg)
 
 ### Testing the Prototype
 
