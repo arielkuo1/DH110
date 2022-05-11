@@ -55,12 +55,12 @@ When asked to criticize the design, the participant mentioned the fact that the 
 
 Font Family: Sans Serif
 
-Website title: Radio Canada, Regular, Size 40, Letter spacing 0.18px 
-Body text: Noto Sans, Regular, Size 30, Letter spacing 1.15px 
-Sidebar: Noto Sans, Regular, Size 40, Letter spacing 1.25px 
-Small text: Noto Sans, Regular, Size 11, Letter spacing 3% 
-Tab: Noto Sans, Regular, Size 24, Letter spacing 1px 
-Profile icon: Noto Sans, Regular, Size 26, Letter spacing 1.25px 
+Website title: Radio Canada, Regular, Size 40, Letter spacing 0.18px  
+Body text: Noto Sans, Regular, Size 30, Letter spacing 1.15px  
+Sidebar: Noto Sans, Regular, Size 40, Letter spacing 1.25px  
+Small text: Noto Sans, Regular, Size 11, Letter spacing 3%  
+Tab: Noto Sans, Regular, Size 24, Letter spacing 1px  
+Profile icon: Noto Sans, Regular, Size 26, Letter spacing 1.25px  
 
 I chose the second typography variation, which included the website title in Radio Canada and all other text in Noto Sans. Variation 1 was the same but with the website title in Barlow, which looked a bit too robust for my liking in the final design. Variation 3 used Radio Canada for the website title, but Open Sans for the rest of the text. Open Sans and Noto Sans looked very similar on the page, but I felt that Open Sans was so round and spread out that it was a little bit boring to see on the website. Noto Sans had the same clarity but looked slightly more professional to me. I sized the different texts accordingly, with more important functions in larger text.
 
@@ -72,11 +72,11 @@ Variation 1 of shape had rectangular body cards, which looked too harsh. Variati
 
 **Color Scheme**
 
-Top bar and small text: 425F90
-Top bar headings and icons, bottom bar: F3F6FA
-Sidebar: C0D4F5
-Background: F7F8FB
-Body and Sidebar text, brackets: 32425E
+Top bar and small text: 425F90 
+Top bar headings and icons, bottom bar: F3F6FA 
+Sidebar: C0D4F5 
+Background: F7F8FB 
+Body and Sidebar text, brackets: 32425E 
 
 I chose blue as the main color family for the website, which was inspired by the original website's blue color for exercises. They used a bright royal blue, which I thought would be too harsh if used as a theme. I chose more muted indigo-blues because they are calming and welcoming, which is perfect for a website about learning targeted to a middle-aged audience. The page includes a dark bar at the top, like the original website, with a medium-shade sidebar and light background and body cards. This coloring puts the focus on the sidebar, which contains the main content of the website. Instead of using harsh whites and blacks for the text, I opted for slightly blue-toned light and dark colors to fit with the rest of the page.
 
@@ -84,8 +84,8 @@ I chose blue as the main color family for the website, which was inspired by the
 
 ![homepage](layout.png)
 
-Columns: 8, Margin 40, Gutter 16
-Rows: 6, Margin 75, Gutter 16
+Columns: 8, Margin 40, Gutter 16 
+Rows: 6, Margin 75, Gutter 16 
 
 8 columns was enough to separate the information on the screen, because the home page does not contain too many objects. Because I had 4 main options in the sidebar, I wanted 6 columns so that I could have the 4 options centered and equally-spaced. I adjusted the margins based on the top and bottom bars I wanted to include, and a gutter of 16 was sufficient to separate the content.
 
