@@ -55,12 +55,12 @@ When asked to criticize the design, the participant mentioned the fact that the 
 
 Font Family: Sans Serif
 
-Website title: Radio Canada, Regular, Size 40, Letter spacing 0.18px
-Body text: Noto Sans, Regular, Size 30, Letter spacing 1.15px
-Sidebar: Noto Sans, Regular, Size 40, Letter spacing 1.25px
-Small text: Noto Sans, Regular, Size 11, Letter spacing 3%
-Tab: Noto Sans, Regular, Size 24, Letter spacing 1px
-Profile icon: Noto Sans, Regular, Size 26, Letter spacing 1.25px
+Website title: Radio Canada, Regular, Size 40, Letter spacing 0.18px 
+Body text: Noto Sans, Regular, Size 30, Letter spacing 1.15px 
+Sidebar: Noto Sans, Regular, Size 40, Letter spacing 1.25px 
+Small text: Noto Sans, Regular, Size 11, Letter spacing 3% 
+Tab: Noto Sans, Regular, Size 24, Letter spacing 1px 
+Profile icon: Noto Sans, Regular, Size 26, Letter spacing 1.25px 
 
 I chose the second typography variation, which included the website title in Radio Canada and all other text in Noto Sans. Variation 1 was the same but with the website title in Barlow, which looked a bit too robust for my liking in the final design. Variation 3 used Radio Canada for the website title, but Open Sans for the rest of the text. Open Sans and Noto Sans looked very similar on the page, but I felt that Open Sans was so round and spread out that it was a little bit boring to see on the website. Noto Sans had the same clarity but looked slightly more professional to me. I sized the different texts accordingly, with more important functions in larger text.
 
