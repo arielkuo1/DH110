@@ -31,7 +31,7 @@ The interface design was first developed with a hand-sketched wireframe, then di
 **Variation 1 (Light Mode)**
 ![homepage](lightmode.png)
 **Variation 2 (Dark Mode)**
-![homepage](darkmode.png)
+![homepage](dark.png)
 
 ### Impression Test
 
