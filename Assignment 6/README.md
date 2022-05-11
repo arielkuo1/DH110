@@ -14,19 +14,27 @@ Access my Figma file [here](https://www.figma.com/file/o6O85cjO6I7GwjE8vgIxS2/Li
 
 ### Typography Variations
 
+**Variation 1**
 ![homepage](font1.png)
+**Variation 2**
 ![homepage](font2.png)
+**Variation 3**
 ![homepage](font3.png)
 
 ### Shape Variations
 
+**Variation 1**
 ![homepage](shape1.png)
+**Variation 2**
 ![homepage](shape2.png)
+**Variation 3**
 ![homepage](shape3.png)
 
 ### Color Variations
 
+**Variation 1 (Light Mode)**
 ![homepage](lightmode.png)
+**Variation 2 (Dark Mode)**
 ![homepage](darkmode.png)
 
 ### Impression Test
@@ -89,4 +97,4 @@ The color contrast between text fields and their backgrounds were checked to ens
 
 ### Interface Design Page
 
-Access my Figma file [here](https://www.figma.com/file/o6O85cjO6I7GwjE8vgIxS2/Light-Mode-UI?node-id=1011%3A3346) 
+Access my Figma file [here](https://www.figma.com/file/o6O85cjO6I7GwjE8vgIxS2/Light-Mode-UI?node-id=1011%3A3346) to view the Design System used.
