@@ -72,7 +72,7 @@ Variation 1 of shape had rectangular body cards, which looked too harsh. Variati
 
 **Color Scheme**
 
-Top bar and small text: 425F90. 
+Top bar and small text: 425F90  
 Top bar headings and icons, bottom bar: F3F6FA  
 Sidebar: C0D4F5  
 Background: F7F8FB  
