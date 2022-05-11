@@ -8,10 +8,6 @@ The goal of this project is to redesign the musictheory.net website to facilitat
 
 The interface design was first developed with a hand-sketched wireframe, then digitized in Figma. I then created many iterations of the design, altering assets like font, shape, and color. Picking the right design is essential to to improving the usability of the website.
 
-### Digitized Wireflow
-
-Access my Figma file [here](https://www.figma.com/file/o6O85cjO6I7GwjE8vgIxS2/Light-Mode-UI?node-id=1011%3A3346) 
-
 ### Typography Variations
 
 **Variation 1**
