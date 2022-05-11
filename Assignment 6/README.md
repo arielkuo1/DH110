@@ -29,8 +29,8 @@ Access my Figma file [here](https://www.figma.com/file/o6O85cjO6I7GwjE8vgIxS2/Li
 
 ### Color Variations
 
-![homepage](color1.png)
-![homepage](color2.png)
+![homepage](lightmode.png)
+![homepage](darkmode.png)
 
 ### Final Design
 
