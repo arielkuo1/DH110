@@ -72,11 +72,11 @@ Variation 1 of shape had rectangular body cards, which looked too harsh. Variati
 
 **Color Scheme**
 
-Top bar and small text: 425F90 
-Top bar headings and icons, bottom bar: F3F6FA 
-Sidebar: C0D4F5 
-Background: F7F8FB 
-Body and Sidebar text, brackets: 32425E 
+Top bar and small text: 425F90. 
+Top bar headings and icons, bottom bar: F3F6FA  
+Sidebar: C0D4F5  
+Background: F7F8FB  
+Body and Sidebar text, brackets: 32425E  
 
 I chose blue as the main color family for the website, which was inspired by the original website's blue color for exercises. They used a bright royal blue, which I thought would be too harsh if used as a theme. I chose more muted indigo-blues because they are calming and welcoming, which is perfect for a website about learning targeted to a middle-aged audience. The page includes a dark bar at the top, like the original website, with a medium-shade sidebar and light background and body cards. This coloring puts the focus on the sidebar, which contains the main content of the website. Instead of using harsh whites and blacks for the text, I opted for slightly blue-toned light and dark colors to fit with the rest of the page.
 
@@ -84,9 +84,9 @@ I chose blue as the main color family for the website, which was inspired by the
 
 ![homepage](layout.png)
 
-Columns: 8, Margin 40, Gutter 16 
-Rows: 6, Margin 75, Gutter 16 
-
+Columns: 8, Margin 40, Gutter 16  
+Rows: 6, Margin 75, Gutter 16  
+ 
 8 columns was enough to separate the information on the screen, because the home page does not contain too many objects. Because I had 4 main options in the sidebar, I wanted 6 columns so that I could have the 4 options centered and equally-spaced. I adjusted the margins based on the top and bottom bars I wanted to include, and a gutter of 16 was sufficient to separate the content.
 
 ### Accessibility Check
