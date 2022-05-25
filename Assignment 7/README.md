@@ -20,7 +20,7 @@ This prototype supports the following user tasks:
 
 ### Wireflows 
 
-![homepage](Task 1.png) 
+![homepage](task-1.png) 
 
 ![homepage](Task 2.png) 
 
