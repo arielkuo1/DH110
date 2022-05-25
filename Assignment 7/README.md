@@ -28,7 +28,7 @@ This prototype supports the following user tasks:
 
 ### Cognitive Walkthrough
 
-Documentation of in-class cognitive walkthrough: https://docs.google.com/document/d/1SVHo5a6SdAxNWC-FW8HDTuUPUEl6wyw2SSQ-AWyW1_8/edit
+Documentation of in-class [cognitive walkthrough:](https://docs.google.com/document/d/1SVHo5a6SdAxNWC-FW8HDTuUPUEl6wyw2SSQ-AWyW1_8/edit)
 
 Points of concern:
 
@@ -45,8 +45,6 @@ Addressing feedback:
 - made sure all sections of the screen were clearly visible in the prototype
 - kept the color scheme and design due to positive feedback
 - incorporated drop down option in the second task due to positive feedback on first task
-
-
 
 
 
