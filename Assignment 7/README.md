@@ -22,7 +22,7 @@ This prototype supports the following user tasks:
 
 ![homepage](task-1.png) 
 
-![homepage](Task 2.png) 
+![homepage](task-2.png) 
 
 ### Interactive Prototype 
 
