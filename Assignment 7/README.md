@@ -15,7 +15,7 @@ The purpose of creating prototypes is to realistically simulate the user's exper
 This prototype supports the following user tasks:
 
 1. Finish the first available lesson and sign in. 
-2. 1. Finish the first available exercise and sign in. 
+2. Finish the first available exercise and sign in. 
 
 
 ### Wireflows 
@@ -23,6 +23,7 @@ This prototype supports the following user tasks:
 ### Interactive Prototype 
 
 [Task 1: Lessons](https://www.figma.com/proto/LBbSvZSTOUSZtRqt5HWdP2/Hifi-Prototype?node-id=1191%3A5563&scaling=scale-down&page-id=1191%3A5562&starting-point-node-id=1191%3A5563&show-proto-sidebar=1)
+
 [Task 2: Exercises](https://www.figma.com/proto/LBbSvZSTOUSZtRqt5HWdP2/Hifi-Prototype?node-id=1191%3A7771&scaling=scale-down&page-id=1191%3A5559&starting-point-node-id=1191%3A7771&show-proto-sidebar=1)
 
 ### Cognitive Walkthrough
