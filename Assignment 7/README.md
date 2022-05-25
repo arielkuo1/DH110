@@ -1,3 +1,12 @@
+# Assignment 7: High Fidelity Prototype
 
+## Ariel Kuo DH 110
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FLBbSvZSTOUSZtRqt5HWdP2%2FHifi-Prototype%3Fnode-id%3D1191%253A5563%26scaling%3Dscale-down%26page-id%3D1191%253A5562%26starting-point-node-id%3D1191%253A5563%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+### Project Goal & Purpose
+
+The goal of this project is to redesign the musictheory.net website to facilitate smooth learning and increase user engagement. The target audience is a middle-aged male user whose goal is to learn music theory in an easy, intuitive way. 
+
+### Interactive Prototype
+
+The purpose of creating prototypes is to realistically simulate the user's experience with the product, without going through a strenuous coding process. The process of creating an interactive prototype involves designing the interface in wireframes, then connecting them with animations in the correct sequence. During the process, the designer learns a lot about what obstacles or points of confusion a user might face, and about the configuration of interactions within the prototype. 
+
