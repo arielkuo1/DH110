@@ -20,9 +20,9 @@ This prototype supports the following user tasks:
 
 ### Wireflows 
 
-![Task 1] (Task 1.png)
+![Task 1](Task 1.png) 
 
-![Task 2] (Task 2.png)
+![Task 2](Task 2.png) 
 
 ### Interactive Prototype 
 
