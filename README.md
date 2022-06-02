@@ -1,4 +1,4 @@
-# Learning Music the Easy Way
+# Learning Music the Easy Way: Redesigning musictheory.net
 ### Ariel Kuo | Spring 2022 
 DH 110: User Experience and Design 
 
