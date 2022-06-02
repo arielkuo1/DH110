@@ -49,9 +49,9 @@ Exploring the different challenges and emotions a user might feel can greatly im
 
 Here is an example of one of the personas and usage scenarios:
 
-![Will Stevenson](https://github.com/arielkuo1/DH110/blob/main/Assignment%204/will.png)
-![Empathy Map](https://github.com/arielkuo1/DH110/blob/main/Assignment%204/empathy-will.png)
-![Journey Map](https://github.com/arielkuo1/DH110/blob/main/Assignment%204/journey-will.png)
+![Will Stevenson](https://arielkuo1.github.io/DH110/Assignment%204/will.png)
+![Empathy Map](https://arielkuo1.github.io/DH110/Assignment%204/empathy-will.png)
+![Journey Map](https://arielkuo1.github.io/DH110/Assignment%204/journey-will.png)
 
 **Feature 1: Music theory lessons with progress visualizations**
 
@@ -73,7 +73,7 @@ The purpose of prototyping in design helps the designer envision how the user wi
 
 Here's an example of the first task, finishing the first lesson.
 
-![Lesson 1 wireflow](https://github.com/arielkuo1/DH110/blob/main/Assignment%205/wireflow-1.jpg)
+![Lesson 1 wireflow](https://arielkuo1.github.io/DH110/Assignment%205/wireflow-1.jpg)
 
 From the process of creating a lo-fi prototype, I realized that having a sign in option both before and after the lesson could cause confusion. The test subject assumed not signing in at the beginning meant their data would be lost, but there was actually a later option to sign in after the lesson. In the second task wireflow (exercise), I only included one sign in option at the end of the exercise, which I think was a more straightforward and clear way to have that feature. This also allows the user to enjoy the experience of finishing a lesson or exercise before having to decide if they wanted to create an account and track their progress.
 
@@ -85,7 +85,7 @@ The interface design was first developed with a hand-sketched wireframe, then di
 
 Here is the final design I chose based on the typeface and color variations:
 
-![Wireframe](https://github.com/arielkuo1/DH110/blob/main/Assignment%206/final.png)
+![Wireframe](https://arielkuo1.github.io/DH110/Assignment%206/final.png)
 
 After selecting the final variation, I asked a participant for their first impression of the website design. The participant's response to the first impression of my home screen matched my goal of creating a clean and intuitive environment. From the short exposure the participant was able to quickly get an insight on the purpose of the website and notice the separate options between free and paid content, which they appreciated.
 
@@ -99,7 +99,7 @@ The purpose of creating prototypes is to realistically simulate the user's exper
 
 Here's an example of creating a prototype in figma:
 
-![Wireflow in figma](https://github.com/arielkuo1/DH110/blob/main/Assignment%207/task-1.png)
+![Wireflow in figma](https://arielkuo1.github.io/DH110/Assignment%207/task-1.png)
 
 After creating my prototypes, I asked two classmates for their feedback in using the product.
 
@@ -133,5 +133,5 @@ Lo-fi Prototype: https://github.com/arielkuo1/DH110/tree/main/Assignment%205
 
 [Task 2: Exercises](https://www.figma.com/proto/LBbSvZSTOUSZtRqt5HWdP2/Hifi-Prototype?node-id=1191%3A7771&scaling=scale-down&page-id=1191%3A5559&starting-point-node-id=1191%3A7771&show-proto-sidebar=1)
 
-![image_caption](https://github.com/arielkuo1/DH110/blob/main/Assignment%207/task-1.png)
+![image_caption](https://arielkuo1.github.io/DH110/Assignment%207/task-1.png)
 
