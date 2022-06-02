@@ -20,7 +20,6 @@ The original website, musictheory.net, was analyzed using heuristic evaluation a
 Based on the 10 heuristics, the original website is a pretty good starting point for learning music theory. The interface is kept very simple and is relatively easy to use. There is a lot of content and useful information on the website, and little unneccessary information shown. Overall, the website is sufficient but could use many improvements in the interface to create a better learrning experience for the user. One major implementation I would add is a function that saves the user's progress, so if they return to the website at a later time they can continue where they left off. In general, the original website is very basic in terms of its design and organization, and can be improved to be a more appealing website.
 
 <img src=”https://github.com/arielkuo1/DH110/blob/main/Assignment%201/musictheory-screenshot.png” height=”300px”> 
-![Musictheory.net original website](https://github.com/arielkuo1/DH110/blob/main/Assignment%201/musictheory-screenshot.png)
 
 [Full Heuristic Evaluation](https://github.com/arielkuo1/DH110/tree/main/Assignment%201)
 
