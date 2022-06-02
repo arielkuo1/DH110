@@ -123,8 +123,3 @@ Addressing feedback:
 
 [Prototype for Task 2: Exercises](https://www.figma.com/proto/LBbSvZSTOUSZtRqt5HWdP2/Hifi-Prototype?node-id=1191%3A7771&scaling=scale-down&page-id=1191%3A5559&starting-point-node-id=1191%3A7771&show-proto-sidebar=1)
 
-![image_caption](https://github.com/arielkuo1/DH110/blob/main/Assignment%207/task-1.png)
-
-### Pitch Video
-
-### Conclusion
