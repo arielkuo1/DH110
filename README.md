@@ -135,6 +135,3 @@ Lo-fi Prototype: https://github.com/arielkuo1/DH110/tree/main/Assignment%205
 
 ![image_caption](https://github.com/arielkuo1/DH110/blob/main/Assignment%207/task-1.png)
 
-### Pitch Video
-
-### Conclusion
