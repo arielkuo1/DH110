@@ -8,11 +8,13 @@ For a middle-aged man, learning music theory online can be a daunting task with 
 
 ### Design Statement
 
-Learning music can be overwhelming, especially finding cheap options that are easy to understand. In my design I aim to make the task as easy as possible for the user to achieve. The content is already free on the original website, so reformatting the information can be powerful.
+Learning music can be overwhelming, especially finding cheap options that are easy to understand. In my design I aim to make the task as easy as possible for the user to achieve. The content is already free on the original website, so reformatting the information can be powerful. With this project I hope to offer a design solution for the daunting task of learning music theory online.
 
 ### Competitor Analysis 
 
 The original website, musictheory.net, was analyzed using heuristic evaluation and usability testing.
+
+![Musictheory.net original website](https://github.com/arielkuo1/DH110/blob/main/Assignment%201/musictheory-screenshot.png)
 
 Heuristic Evaluation: https://github.com/arielkuo1/DH110/tree/main/Assignment%201
 
