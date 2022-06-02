@@ -124,4 +124,13 @@ Addressing feedback:
 
 [Prototype for Task 2: Exercises](https://www.figma.com/proto/LBbSvZSTOUSZtRqt5HWdP2/Hifi-Prototype?node-id=1191%3A7771&scaling=scale-down&page-id=1191%3A5559&starting-point-node-id=1191%3A7771&show-proto-sidebar=1)
 
+### Pitch Video
+
+[![Pitch Video](http://img.youtube.com/vi/-maFzWeil2k/0.jpg)](https://www.youtube.com/watch?v=-maFzWeil2k)
+
+
+### Conclusion
+
+I learned a lot during each step of the process of creating this project. I think my main takeaway is that it takes a lot of thought and research to create a good product. A designer's ideas for usability may be different from what the user would prefer. For instance, I thought having more sign-in options at different points in the task would give the user more freedom, but that actually confused the user rather than having just one sign-in option. I also learned that every user might have different feedback, so it is the designer's job to be able to take the most important points of feedback into consideration after conducting thorough research. Through this process, I became much more proficient with designing and prototyping in Figma, as well as creating published web pages through Github. I learned the importance of design elements such as font, color, and shape to the usability of a product, and also the importance of creating thorough wireflows to design a working prototype. Overall, I feel a lot more familiar with UX design and research after conducting this project, and I'd like to thank Sookyung Cho, my classmates, and study participants for all their help during the process.
+
 
